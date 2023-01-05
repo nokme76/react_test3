@@ -20,6 +20,7 @@ function ConfirmButton(prop) {
             {isConfirmed ? "확인 완료" : "확인 하기"}
             </button>
         </div>
+
     );
 }
 export default ConfirmButton;

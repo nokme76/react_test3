@@ -17,6 +17,7 @@ function Calculator() {
         calResult = number1 + number2;
 
         setResult(calResult);
+
     }
 
 
